@@ -1,1 +1,1 @@
-worker: python strana_pro_code.py
+bot: python strana_pro_code.py
